@@ -1,4 +1,4 @@
-## ✨**Dojo UI/UX Guide**
+## ✨**Dojo UI/UX & Front end tools**
 
 🧰 **Font Tools**
 
