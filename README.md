@@ -93,7 +93,7 @@ Pexels provides high quality and completely free stock photos licensed under the
   
  Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
  
- - Paaterns! | https://products.ls.graphics/paaatterns/
+ - Paaaterns! | https://products.ls.graphics/paaatterns/
  
  Free collection of patterns for all vector formats.
  
@@ -101,7 +101,7 @@ Pexels provides high quality and completely free stock photos licensed under the
  
  Free fonts, textures, graphics, vectors, templates, mockups and brushes.
  
-  **Pluggins**
+  🔌 **Pluggins**
   
   - CSSPepper | https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk
   
