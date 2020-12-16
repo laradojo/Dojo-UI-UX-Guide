@@ -110,3 +110,7 @@ Pexels provides high quality and completely free stock photos licensed under the
   - VisBug | https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc
   
   With VisBug you can point, click and tinker, edit or style pages, inspect styles, spacing, distance, accessibility and alignment and etc.
+  
+  📰 **Articles**
+  
+  _Designing tables for reusability_ | https://uxdesign.cc/designing-tables-for-reusability-490a3760533
