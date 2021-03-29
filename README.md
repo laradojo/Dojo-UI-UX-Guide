@@ -121,9 +121,13 @@ Pexels provides high quality and completely free stock photos licensed under the
   
   _The FAQ of Information Architecture (IA)_ | https://www.youtube.com/watch?v=sw2nQLVGBGE
  
-  📰 **Blogs**
+  📰 **Blogs/Sites**
   - Optimal Workshop | https://blog.optimalworkshop.com/
   
   - UX Collective | https://uxdesign.cc/ | https://brasil.uxdesign.cc/
+
+  - Pagespeed | https://developers.google.com/speed/pagespeed/insights/
+   
+   Calculates the time response of the website and gives you tips to improve the speed time.
   
   📺 **Channels**
