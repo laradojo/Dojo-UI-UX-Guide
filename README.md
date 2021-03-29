@@ -101,6 +101,10 @@ Pexels provides high quality and completely free stock photos licensed under the
  
  Free fonts, textures, graphics, vectors, templates, mockups and brushes.
  
+ - CSS Gradient | https://cssgradient.io/
+ 
+ Create gradient patterns with multiple colors.
+ 
   🔌 **Pluggins**
   
   - CSSPepper | https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk
